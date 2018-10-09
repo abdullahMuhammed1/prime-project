@@ -1,8 +1,7 @@
-const myArray = [4,
-    8, 4,
-   2, 6, 9, 
-  8, 5, 9, 3,
- ]
+const myArray = [[1],
+[8, 4],
+[2, 6, 9], 
+[8, 5, 9, 3]]
 let prePaths = [] 
 let paths = []
 
